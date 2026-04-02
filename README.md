@@ -1,16 +1,38 @@
-# React + Vite
+# 💰 Finance Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern finance dashboard built using React that helps users track income and expenses, manage transactions, and visualize financial data with charts.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- ➕ Add and delete transactions  
+- 📊 View total balance, income, and expenses  
+- 🔍 Filter transactions (All / Income / Expense)  
+- 📅 Add and display transaction dates  
+- 📈 Visualize data using charts (Income vs Expense)  
+- 💾 Persistent data storage using localStorage  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js  
+- CSS (Custom Styling)  
+- Recharts (for charts)  
+- LocalStorage  
+
+---
+
+## 📸 Screenshots
+
+> Add your project screenshots here  
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/finance-dashboard.git
