@@ -26,13 +26,24 @@ A modern finance dashboard built using React that helps users track income and e
 
 ## 📸 Screenshots
 
-> Add your project screenshots here  
+![Dashboard](./screenshots/dashboard.png)
+![Form](./screenshots/form.png)
+![Transactions](./screenshots/list.png)
 
 ---
 
 ## ⚙️ Installation & Setup
 
-Clone the repository:
+Follow these steps to run the project locally:
 
-```bash
-git clone https://github.com/YOUR_USERNAME/finance-dashboard.git
+### 1. Clone the repository
+git clone https://github.com/Sacchu-1206/finance-dashboard.git
+
+### 2. Navigate to project folder
+cd finance-dashboard
+
+### 3. Install dependencies
+npm install
+
+### 4. Run the development server
+npm run dev
